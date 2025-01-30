@@ -1,0 +1,26 @@
+###########################################
+# Qlink Library Keywords File
+# Author: Khaled HAMIDI
+# Version: 0.1
+###########################################
+
+# Class Names (Highlight in Orange)
+Qlink      KEYWORD1
+
+# Functions (Highlight in Blue)
+reg        KEYWORD2
+loop       KEYWORD2
+response   KEYWORD2
+
+# Macros (Highlight in Green)
+REG        LITERAL1
+CMD        LITERAL1
+DEF        LITERAL1
+Convert    LITERAL1
+
+# Data Types & Enums (Highlight in Blue)
+Args       KEYWORD2
+INT        KEYWORD2
+FLOAT      KEYWORD2
+STRING     KEYWORD2
+LONG       KEYWORD2
